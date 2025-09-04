@@ -64,18 +64,23 @@
 }
 
 .img2 {
-    background-image: url("/imagens/Projeto\ de\ Frontend\ softexpe\ -\ 2025\ \(img2\).png");
+    background-image: url("/imagens/Projeto de Frontend softexpe - 2025 (img2).png");
     background-size: contain;
 }
 
 .img3 {
-    background-image: url("/imagens/Projeto\ de\ Frontend\ softexpe\ -\ 2025\ \(img3\).png");
+    background-image: url("/imagens/Projeto de Frontend softexpe - 2025 (img3).png");
     background-size: contain;
 }
 
 .img4 {
-    background-image: url("/imagens/Projeto\ de\ Frontend\ softexpe\ -\ 2025\ \(img4\).png");
+    background-image: url("/imagens/Projeto de Frontend softexpe - 2025 (img4).png");
     background-size: contain;
+}
+
+.lado-direito {
+  float: right;
+  text-align: right;
 }
 
 .social-icons {
