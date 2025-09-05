@@ -144,7 +144,7 @@ img {
     margin: 0;
     text-align: left;
     text-decoration: none;
-    color: antiquewhite;
+    color: rgb(97, 132, 167);
     width: 100%;
 }
 .img-index p {
@@ -153,18 +153,45 @@ img {
 }
 
 .img2 {
-    background-image: url("/imagens/ProjetodeFrontendsoftexpe-2025(img2).png");
+    background-image: url("/imagens/ProjetodeFrontendsoftexpe-2025\(img2\).png");
     background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    min-height: 400px;
+    color: black;
+    position: relative;
 }
-
+.img2 p {
+  color: black;
+}
 .img3 {
-    background-image: url("/imagens/ProjetodeFrontendsofexpe-2025(img3).png");
+    background-image: url("/imagens/ProjetodeFrontendsoftexpe-2025\(img3\).png");
     background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    min-height: 400px;
+    position: relative;
 }
-
+.img3 p {
+  color: black;
+}
 .img4 {
-    background-image: url("/imagens/ProjetodeFrontendsoftexpe-2025(img4).png");
+    background-image: url("/imagens/ProjetodeFrontendsoftexpe-2025\(img4\).png");
     background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    min-height: 400px;
+    color: black;
+    position: relative;
+}
+.img4 p {
+  color: black;
 }
 
 .redes {
