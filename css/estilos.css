@@ -1,5 +1,5 @@
 body {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Merriweather', serif;
     font-optical-sizing: auto;
     font-weight: auto;
     font-style: normal;
@@ -7,7 +7,7 @@ body {
     margin: 0%;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 
 .topo {
   display: flex;
@@ -63,8 +63,8 @@ body {
   text-decoration: none;
   color: rgb(12, 39, 78);
   font-weight: 600;
-  font-size: 18px;
-  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
   transition: color 0.3s ease;
 }
 .nav ul li a:hover {
@@ -73,39 +73,30 @@ body {
 
 h1 {
     color: black;
-    font-size: 32px;
+    font-size: 34px;
     text-align: left;
 }
-
 h2 {
     color: black;
-    font-size:26px;
+    font-size: 28px;
     text-align: left;
 }
-
 h4 {
   color: black;
-  font-size: 20px;
+  font-size: 22px;
   text-align: left;
 }
-
 p {
-    font-size: 18px;
+    font-size: 20px;
     margin: 0%;
     text-align: left;
     text-decoration: none;
     color: rgb(12, 39, 78);
 }
 
-.texto-promoçoes {
-  text-align: left;
-  float: left;
-  align-items: left;
-}
-
 .secao-titulo {
   text-align: center;
-  font-size: 28px;
+  font-size: 30px;
   margin: 60px auto 20px;
   font-weight: bold;
 }
@@ -115,11 +106,11 @@ p {
 }
 .texto h2 {
   text-align: center;
-  font-size: 24px;
+  font-size: 26px;
   margin: 40px 0 10px;
 }
 .texto p {
-  font-size: 20px;
+  font-size: 22px;
   color: black;
   line-height: 1.6;
 }
@@ -127,7 +118,7 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: 20px 0;
+  margin: 22px 0;
   gap: 10px;
 }
 .lado img {
@@ -138,7 +129,7 @@ p {
 .lado-inverso {
   display: flex;
   justify-content: space-between;
-  margin: 20px;
+  margin: 22px;
   gap: 10px;
   flex-direction: row-reverse;
 }
@@ -221,6 +212,7 @@ img {
 .img-index p {
   text-align: center;
   align-items: center;
+  font-size: 16px;
 }
 
 .img2 {
